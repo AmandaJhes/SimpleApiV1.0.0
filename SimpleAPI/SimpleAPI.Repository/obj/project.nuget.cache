@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "96Y6kaHYtYUY2o1/V71aqmkMskO9VH5jBX9Hefb0/PMblxgcs71isRsD8twF4iQXhPz/6g2S9WXJ+1W+HzT4cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\ESTUDOS\\Projects\\SimpleApiV1.0.0\\SimpleAPI\\SimpleAPI.Repository\\SimpleAPI.Repository.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://gacnuget.acocearense.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
